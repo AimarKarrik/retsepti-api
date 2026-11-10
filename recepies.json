@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Spagetid Bologneses",
+    "description": "Maitsev pasta roog.",
+    "category": "Pasta",
+    "ingredients": [
+      "500g spagette",
+      "400g hakkliha",
+      "1 sibul",
+      "2 küüslauguküünt",
+      "400g purustatud tomateid",
+      "2 spl tomatipastat",
+      "1 tl kuivatatud basiilikut",
+      "1 tl kuivatatud oreganot",
+      "Sool ja pipar maitse järgi",
+      "Parmesani juust serveerimiseks"
+    ],
+    "instructions": [
+      "Keeda spagetid vastavalt pakendi juhistele.",
+      "Kuumuta pannil veidi õli ja prae hakkliha kuni see on pruunistunud.",
+      "Lisa hakitud sibul ja küüslauk ning prae veel paar minutit.",
+      "Lisa purustatud tomatid, tomatipasta, basiilik ja oregano. Lase kastmel podiseda umbes 15 minutit.",
+      "Maitsesta soola ja pipraga.",
+      "Serveeri spagetid koos bolognese kastmega ja puista peale riivitud parmesani juustu."
+    ],
+    "necessary_tools": ["Pott ", "Pann", "Lusikas", "Nuga"]
+  }
+]
