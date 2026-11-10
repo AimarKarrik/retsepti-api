@@ -25,5 +25,30 @@
       "Serveeri spagetid koos bolognese kastmega ja puista peale riivitud parmesani juustu."
     ],
     "necessary_tools": ["Pott ", "Pann", "Lusikas", "Nuga"]
+  },
+  {
+    "id": 2,
+    "name": "Teriyaki kana",
+    "description": "Sulav kana teriyaki maitsusega.",
+    "category": "Jaapan",
+    "ingredients": [
+      "500g kanafileed",
+      "2 spl teriyakikastme",
+      "1 sibul",
+      "2 küüslauguküünt",
+      "1 tl ingverit (riivitud)",
+      "1 tl soojendatud sake",
+      "1 tl sake",
+      "Sool ja pipar maitse järgi"
+    ],
+    "instructions": [
+      "Lõika kanafilee väikesteks tükkideks.",
+      "Kuumuta pannil veidi õli ja prae hakitud sibul ja küüslauk kuni need on pehmed.",
+      "Lisa teriyakikastme ja prae kanafilee kuni see on kuldpruun.",
+      "Lisa ingver ja soojendatud sake. Lase kastmel podiseda umbes 10 minutit.",
+      "Maitsesta soola ja pipraga.",
+      "Serveeri teriyaki kana koos rüüdiga."
+    ],
+    "necessary_tools": ["Pann", "Lusikas", "Nuga"]
   }
 ]
