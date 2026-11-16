@@ -15,18 +15,18 @@ def write_json_file(file_path, data):
         return False
     return True
 
-recepie_file_path = 'recepies.json'
-recepies = read_json_file(recepie_file_path)
+recipe_file_path = 'recipes.json'
+recipes = read_json_file(recipe_file_path)
 
 app = Flask(__name__)
 
 @app.route("/")
-def get_all_recepies():
-    return recepies
+def get_all_recipes():
+    return recipes
 
-@app.route("/recepie/<int:recepie_id>")
-def get_recepie_by_id(recepie_id):
-    for recepie in recepies:
-        if recepie.get('id') == recepie_id:
-            return recepie
+@app.route("/recipe/<int:recipe_id>")
+def get_recipe_by_id(recipe_id):
+    for recipe in recipes:
+        if recipe.get('id') == recipe_id:
+            return recipe
     return None
