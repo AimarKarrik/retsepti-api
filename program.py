@@ -29,4 +29,4 @@ def get_recipe_by_id(recipe_id):
     for recipe in recipes:
         if recipe.get('id') == recipe_id:
             return recipe
-    return None
+    return {"error": "Retsepti ei leitud"}, 404
